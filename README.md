@@ -3,7 +3,7 @@
 **Public-surface inventory for authorized security work**  
 Version 1.2.0 · Parrot OS / Debian / Ubuntu · Python 3
 
-![Vidyexd ReconX black-and-gold banner](assets/vidyexd-reconx-banner.png)
+![Vidyexd ReconX black-and-gold banner](vidyexd-reconx-banner.png)
 
 **MADE BY AashishRaazKumar**
 
